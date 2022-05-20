@@ -1,0 +1,11 @@
+GET http://localhost:8988/users
+
+###
+
+POST http://localhost:8988/users
+
+{
+  "email": "john@doe.com"
+  "firstName": "John",
+  "lastName": "Doe"
+}
