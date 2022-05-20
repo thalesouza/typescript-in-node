@@ -6,7 +6,7 @@ I've created this repository to follow some learning process.
 It helped me to learn how to use TypeScript and MongoDB.
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-![Latest update](https://img.shields.io/date/1653009901)
+![Latest update](https://img.shields.io/date/1653010039)
 ![typescript](https://img.shields.io/badge/typescript-V4.6.3-blue)
 ![mongodb](https://img.shields.io/badge/MongoDB-5.x-brightgreen?style=flat&logo=mongodb)
 - [Why TypeScript?](#why-typescript)
